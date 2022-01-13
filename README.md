@@ -2,6 +2,8 @@
 
 I'm Devraj Singh, currently pursuing Master of Applied Computer Science at Dalhousie University , Halifax, Canada and I'm expected to graduate by August,2022. I have 8 and half years of experience as a Software Engineer. I am passionate about programming, software design and development, good coding practice and efficient (software)system design. I have worked on Java, Golang, Postgres, git, CI/CD, Redis, MongoDB, Cassandra, etc. I also believe that I'm quite good in Data Structures and Algorithms and problem solving in general. 
 You can reach me on devrajvit@gmail.com
+[![Devraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgit072)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgit072&langs_count=8&layout=compact)
 
 <a href="https://www.linkedin.com/in/devraj-singh-3407a236/">
   <img alt="Devraj's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
