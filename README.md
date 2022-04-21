@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Devraj Singh, currently pursuing Master of Applied Computer Science at Dalhousie University , Halifax, Canada and I'm expected to graduate by August,2022. I have 8 and half years of experience as a Software Engineer. I am passionate about programming, software design and development, good coding practice and efficient (software)system design. I have worked on Java, Golang, Postgres, git, CI/CD, Redis, MongoDB, Cassandra, etc. I also believe that I'm quite good in Data Structures and Algorithms and problem solving in general. 
+Hello, I'm Devraj Singh, currently pursuing Master of Applied Computer Science at Dalhousie University , Halifax, Canada. I have 8 and half years of experience as a Software Engineer. I am passionate about programming, software design and development, good coding practice and efficient (software)system design. I have worked on Java, Golang, Postgres, git, CI/CD, Redis, MongoDB, Cassandra, etc. I also believe that I'm quite good in Data Structures and Algorithms and problem solving in general. 
 You can reach me on devrajvit@gmail.com
 
 
